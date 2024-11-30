@@ -1,0 +1,13 @@
+.main{
+    background-image: url('kachel_constructionhub_large-small.jpg');
+
+    width: 100%;
+    height: 50rem;
+}
+
+.insidesaection{
+
+    width: 70%;
+    height: 70%;
+    background-color: rgb(23, 216, 216);
+}
